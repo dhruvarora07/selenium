@@ -1,0 +1,6 @@
+http://www.mediafire.com/download/yp5grpyycca2ngh/rtmpdump-2.4.zip
+
+trove says he needed this alias to get `nflvid-watch` to work:
+
+    alias vlc='/Applications/VLC.app/Contents/MacOS/VLC'
+
