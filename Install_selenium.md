@@ -1,7 +1,14 @@
+How to Install the selenium on windows machine 
+
+
 1) Install java 
 2) Install python 
 	--> Set in environment variable 
 		location of python installed : C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.6
+
+
+		Link : https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10
+
 
 	---> 	How to Check Path Variable in windows : 
 			---> Go to command promt 
@@ -16,8 +23,11 @@
 				----> In linux : pwd 
 				
 
-				Link :
+				 Source Link :
 				https://superuser.com/questions/341192/how-can-i-display-the-contents-of-an-environment-variable-from-the-command-promp
 
 
 3) Install pip
+running python -m pip install --upgrade pip in cmd
+
+
