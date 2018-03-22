@@ -1,7 +1,9 @@
 How to Install the selenium on windows machine 
 
 
-1) Install java 
+1) Install java ( jdk and jre )
+http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
 2) Install python 
 	--> Set in environment variable 
 		location of python installed : C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Python 3.6
@@ -29,5 +31,9 @@ How to Install the selenium on windows machine
 
 3) Install pip
 running python -m pip install --upgrade pip in cmd
+
+4) Install selenium  and configure eclipse 
+
+https://www.guru99.com/installing-selenium-webdriver.html
 
 
